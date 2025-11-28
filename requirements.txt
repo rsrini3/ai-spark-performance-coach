@@ -1,0 +1,14 @@
+# Core dependencies
+# No external dependencies required for basic functionality
+
+# Optional: AI/LLM dependencies (install with: pip install -e ".[ai]")
+# openai>=1.0.0
+# python-dotenv>=1.0.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# ruff>=0.1.0
+# mypy>=1.0.0
+
